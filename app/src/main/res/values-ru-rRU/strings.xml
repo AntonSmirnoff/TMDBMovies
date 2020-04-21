@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDB Movies</string>
+    <string name="poster_of_movie">Постер к фильму</string>
+    <string name="most_popular">Самые популярные</string>
+    <string name="top_rated">Наиболее рейтинговые</string>
+    <string name="Big_poster">Большая картинка</string>
+    <string name="Label_title">Название:</string>
+    <string name="add_favourite">Добавлено в избранное</string>
+    <string name="remove_favorite">Удалено из избранного</string>
+    <string name="menu_title_main">Главная</string>
+    <string name="menu_item_favourite">Избранное</string>
+    <string name="string_play_trailer">Запустить трейлер</string>
+    <string name="add_to_favourite">Добавить в избранное</string>
+    <string name="image_add_to_favourite">Добавить в избранное</string>
+    <string name="textView_description">Описание:</string>
+    <string name="textView_Rated">Рейтинг:</string>
+    <string name="Label_oringinal_title">Оригинальное название:</string>
+    <string name="label_releaze_date">Дата релиза:</string>
+    <string name="textview_label_trailer">Трейлеры:</string>
+    <string name="textview_label_reviews">Отзывы:</string>
+    <string name="menu_item_about_app">О программе</string>
+    <string name="back_to_main_activity">Вернутся на главную</string>
+    <string name="goto_web_site">Перейти на сайт разработчика: AntonSmirnov.online</string>
+    <string name="tetxView_coder_name">Антон Смирнов</string>
+</resources>

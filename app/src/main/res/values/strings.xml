@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TMDB Movies</string>
+    <string name="poster_of_movie">Movie poster</string>
+    <string name="most_popular">Most popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="Big_poster">Big poster</string>
+    <string name="Label_title">Title:</string>
+    <string name="add_favourite">Add to favorite</string>
+    <string name="remove_favorite">Remove from favorite</string>
+    <string name="menu_title_main">Main</string>
+    <string name="menu_item_favourite">Favorite</string>
+    <string name="string_play_trailer">Play trailer</string>
+    <string name="add_to_favourite">add_to_favourite</string>
+    <string name="image_add_to_favourite">Image_add_to_favourite</string>
+    <string name="textView_description">Description:</string>
+    <string name="textView_Rated">Rated:</string>
+    <string name="Label_oringinal_title">Original title:</string>
+    <string name="label_releaze_date">Date of release:</string>
+    <string name="textview_label_trailer">Trailers:</string>
+    <string name="textview_label_reviews">Reviews:</string>
+    <string name="menu_item_about_app">About app</string>
+    <string name="back_to_main_activity">Back to main</string>
+    <string name="goto_web_site">Go to the developer web-site: AntonSmirnov.online</string>
+    <string name="tetxView_coder_name">Anton Smirnov</string>
+</resources>
